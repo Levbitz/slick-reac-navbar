@@ -1,4 +1,4 @@
-## visionary tamplate React from Levbitz
+## React Navbar from Levbitz
 
 Levbitz Starter License
 Thank you for downloading our Website template.
